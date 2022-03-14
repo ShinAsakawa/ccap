@@ -20,7 +20,8 @@ from . import onomatope
 from . import minnichi
 from . import vdj2500
 from . import mecab_settings
-from . import tlpa_o2p
+#from . import tlpa_o2p # this name seems to be obsolute
+from . import multi_modal
 
 """
 - date: 2020-0718
