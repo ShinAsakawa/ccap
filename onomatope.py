@@ -8,11 +8,8 @@ import typing
 import matplotlib.pyplot as plt
 
 isColab = 'google.colab' in str(get_ipython()) 
-#import platform
-#isColab = platform.system() == 'Linux'
-
-#if isColab:
-#    !pip install japanize_matplotlib
+if isColab:
+    !pip install japanize_matplotlib
 import japanize_matplotlib
 
 import unicodedata
