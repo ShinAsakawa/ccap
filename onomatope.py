@@ -7,11 +7,10 @@ import numpy as np
 import typing
 import matplotlib.pyplot as plt
 
-isColab = 'google.colab' in str(get_ipython()) 
-if isColab:
-    !pip install japanize_matplotlib
+#isColab = 'google.colab' in str(get_ipython()) 
+#if isColab:
+#    !pip install japanize_matplotlib
 import japanize_matplotlib
-
 import unicodedata
 import pandas as pd
 
