@@ -11,8 +11,8 @@ import PIL.Image as PILImage
 
 import matplotlib.pyplot as plt
 
-# pip install japanize-matplotlib
-import japanize_matplotlib
+#pip install japanize-matplotlib
+#import japanize_matplotlib
 ## グラフ中の日本語がトーフになるので，その対策
 #import matplotlib.font_manager
 #
