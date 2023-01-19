@@ -7,6 +7,7 @@ import pandas as pd
 
 import MeCab
 
+from IPython import get_ipython
 isColab = 'google.colab' in str(get_ipython()) 
 #import platform
 #isColab = platform.system() == 'Linux'
