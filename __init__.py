@@ -17,8 +17,8 @@ from .ccap_w2v import ccap_w2v
 from .  import tsne
 from .ccap_normalize_neologd import normalize_neologd
 from . import onomatope
-from . import minnichi
-from . import vdj2500
+#from . import minnichi
+#from . import vdj2500
 from . import mecab_settings
 #from . import tlpa_o2p # this name seems to be obsolute
 from . import multi_modal
